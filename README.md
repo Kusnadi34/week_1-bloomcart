@@ -1,4 +1,4 @@
-# BloomCart 🌸🛒
+# BloomCart 🌸🛒 - Pynexia Internship Task
 
 BloomCart is a responsive, frontend-only e-commerce web application designed for a flower and gift shop. This project was built as an internship assignment for **Pynexia**. It provides a seamless user experience for browsing products, managing a shopping cart, and simulating a checkout process with a modern UI.
 
